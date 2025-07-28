@@ -9,7 +9,3 @@ Open terminal in your project folder and run:
 ```bash
 npm install
 
-### ✅ Step 2: Run solve.js
-
-```bash
-node solve.js
