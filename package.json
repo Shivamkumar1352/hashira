@@ -1,0 +1,16 @@
+{
+  "name": "hashira",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "combinatorial-generators": "^1.1.2",
+    "mathjs": "^14.6.0"
+  }
+}
